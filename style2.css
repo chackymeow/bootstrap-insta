@@ -1,0 +1,27 @@
+#superior{
+    width: 60%;
+}
+#superior2{
+    background-color: #f7f8f7;
+}
+#boton{
+    float: right;
+}
+#tit-feed{
+    width: 80%;
+}
+#p-feed{
+    width: 20%;
+    margin-top: 5px;
+}
+#corazon{
+    width: 10%;
+    margin-top: 10px;
+}
+#comment{
+    width: 80%;
+}
+#barras{
+    width: 10%;
+    margin-top: 10px;
+}
